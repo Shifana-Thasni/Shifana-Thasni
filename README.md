@@ -15,4 +15,4 @@ I'm a data analyst who combines economic thinking with data skills to find answe
 - [LinkedIn](https://www.linkedin.com/in/shifana-thasni-k-00a1a2288)
 - [Tableau Public](https://public.tableau.com/app/profile/shifana.thasni/vizzes)
 
-💼 Open to Data Analyst roles in UAE,INDIA
+💼 Open to Data Analyst and Business Analyst opportunities in India and UAE.
