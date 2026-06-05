@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Shifana Thasni 👋
 
-<!--
-**Shifana-Thasni/Shifana-Thasni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MA in Economics | Google Data Analytics Professional Certificate
 
-Here are some ideas to get you started:
+I'm a data analyst who combines economic thinking with data skills to find answers that actually matter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Python, SQL
+- **Tools:** Tableau, Excel, Jupyter Notebook
+- **Libraries:** Pandas, NumPy
+
+## 📊 Projects
+- [Cyclistic Bike-Share Analysis](paste your Kaggle link here)
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/shifana-thasni-k-00a1a2288)
+- [Tableau Public](https://public.tableau.com/app/profile/shifana.thasni/vizzes)
+
+💼 Open to Data Analyst roles in UAE,India
