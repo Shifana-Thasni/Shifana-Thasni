@@ -10,9 +10,8 @@ I'm a data analyst who combines economic thinking with data skills to find answe
 - **Libraries:** Pandas, NumPy
 
 ## 📊 Projects
-- [Cyclistic Bike-Share Analysis](paste your Kaggle link here)
-
-## 📫 Connect with me
+- [Cyclistic Bike-Share Analysis](
+## 📫 Connect with mehttps://www.kaggle.com/code/shifanathasni/cyclistic-bike-share-analysis)
 - [LinkedIn](https://www.linkedin.com/in/shifana-thasni-k-00a1a2288)
 - [Tableau Public](https://public.tableau.com/app/profile/shifana.thasni/vizzes)
 
