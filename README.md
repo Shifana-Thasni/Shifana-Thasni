@@ -11,7 +11,8 @@ I'm a data analyst who combines economic thinking with data skills to find answe
 
 ## 📊 Projects
 - [Cyclistic Bike-Share Analysis](https://www.kaggle.com/code/shifanathasni/cyclistic-bike-share-analysis)
+## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/shifana-thasni-k-00a1a2288)
 - [Tableau Public](https://public.tableau.com/app/profile/shifana.thasni/vizzes)
 
-💼 Open to Data Analyst roles in UAE,India
+💼 Open to Data Analyst roles in UAE,INDIA
