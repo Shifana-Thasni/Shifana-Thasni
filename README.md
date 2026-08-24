@@ -11,6 +11,9 @@ I'm a data analyst who combines economic thinking with data skills to find answe
 
 ## 📊 Projects
 - [Cyclistic Bike-Share Analysis](https://www.kaggle.com/code/shifanathasni/cyclistic-bike-share-analysis)
+- [Smart Discounting: When Does It Work and When Does It Hurt?](https://github.com/Shifana-Thasni/Smart-Disounting-Analysis)
+- [Quantium: Data Analytics Job Simulation](https://github.com/Shifana-Thasni/quantium-data-analytics-simulation)
+- [TATA: GenAI Powered Data Analytics Job Simulation](https://github.com/Shifana-Thasni/geldium-ai-collections-strategy)
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/shifana-thasni-k-00a1a2288)
 - [Tableau Public](https://public.tableau.com/app/profile/shifana.thasni/vizzes)
